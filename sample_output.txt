@@ -1,0 +1,7 @@
+$ python detector.py
+Window 01: NORMAL (robust score=0.67)
+...
+Window 21: ANOMALY (robust score=100.00)
+...
+Precision: 100.0%
+Recall: 100.0%
